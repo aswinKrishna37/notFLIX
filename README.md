@@ -1,3 +1,7 @@
+## ⚠️ Project Status
+
+This project is currently **unfinished** and in active development. Features may change, and some functionality may not work as expected.
+
 # NotFlix - Not Netflix
 
 A personal movie library manager that automatically fetches metadata from The Movie Database (TMDB) and provides a web-based interface to browse your movie collection with posters and details.
